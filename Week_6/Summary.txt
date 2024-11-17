@@ -1,0 +1,14 @@
+Summary File:
+
+No of rows: 3799608
+No of Columns: 12
+File size: 2 GB
+
+Time taken in pandas:11.28 sec
+
+Time taken in Dask: 0.77 seconds
+
+Time taken for modin: 16.20 seconds.
+
+Dask is fastest.
+
