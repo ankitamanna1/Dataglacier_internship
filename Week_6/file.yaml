@@ -1,0 +1,20 @@
+file_type: csv
+dataset_name: ETHSUD
+file_name: test_data
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Opentime
+    - Open
+    - High
+    - Low
+    - Close
+    - Volume
+    - Closetime
+    - Quoteassetvolume
+    - Numberoftrades
+    - Takerbuybaseassetvolume
+    - Takerbuyquoteassetvolume
+    - Ignore
