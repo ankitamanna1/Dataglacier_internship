@@ -1,5 +1,5 @@
 **Week 1:**Week 1: Version Control
-- Clone the VC repo (https://github.com/DataGlacier/VC.gitLinks to an external site.)
+- Clone the VC repo (https://github.com/DataGlacier/VC.gitLinks to an external site)
 - Create a new branch
 - Checkout newly created branch
 - Run the add.py and provide your name and fav sport as input
